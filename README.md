@@ -25,7 +25,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 💻 What I'm Currently Working On
+## 🚧 What I'm Currently Working On
 - Improving my TypeScript skills
 - Building more complex React applications
 
